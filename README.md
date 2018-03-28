@@ -4,6 +4,7 @@
 * `0.15.40`, `0.15`, `stable` [(0.15/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.15/Dockerfile)
 * `0.14.23`, `0.14` [(0.14/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.14/Dockerfile)
 * `0.13.20`, `0.13`  [(0.13/Dockerfile)](https://github.com/dtandersen/docker_factorio_server/blob/master/0.13/Dockerfile)
+* `0.12.35`, `0.12`, Please read the note at bottom of readme.
 
 *Tag descriptions*
 
@@ -294,3 +295,7 @@ Use the `PORT` environment variable to start the server on the a different port,
 * [gnomus](https://github.com/gnomus/docker_factorio_server) - White listing
 * [bplein](https://github.com/bplein/docker_factorio_server) - Scenario support
 * [jaredledvina](https://github.com/jaredledvina/docker_factorio_server) - Version update
+
+# For v0.12.35
+This section was write after forked.
+//TODO: Write installation for v0.12.35.
